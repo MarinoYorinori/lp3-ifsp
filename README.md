@@ -9,8 +9,8 @@ Repositório para organizar os códigos da disciplina Linguagem de Programação
 1-Configurar o usuário local do git
 
 ```bash
-git config --global user.name "Seu nome"
-git config --global user.email "seuemail@email.com"
+git config --global user.name "Marino Yorinori"
+git config --global user.email "megumimariana@gmail.com"
 ```
 
 2-Fazer o clone do seu repositório no GitHub
