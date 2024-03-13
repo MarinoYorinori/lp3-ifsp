@@ -16,7 +16,7 @@ git config --global user.email "megumimariana@gmail.com"
 2-Fazer o clone do seu repositório no GitHub
 
 ```bash
-git clone https://github.com/SEU_USUARIO/lp3-ifsp.git
+git clone https://github.com/MarinoYorinori/lp3-ifsp.git
 ```
 
 3-Abrir o repo no VSCode
