@@ -10,7 +10,7 @@ Repositório para organizar os códigos da disciplina Linguagem de Programação
 
 ```bash
 git config --global user.name "Marino Yorinori"
-git config --global user.email "megumimariana@gmail.com"
+git config --global user.email "email@gmail.com"
 ```
 
 2-Fazer o clone do seu repositório no GitHub
